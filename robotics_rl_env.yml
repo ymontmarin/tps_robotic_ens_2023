@@ -20,6 +20,3 @@ dependencies:
   - tensorboard
   - tqdm
   - pip
-  - pip:
-    - upkie
-
